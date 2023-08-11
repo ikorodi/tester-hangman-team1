@@ -1,183 +1,183 @@
-Afghanistan | Kabul
-Albania | Tirana
-Algeria | Algiers
-Andorra | Andorra la Vella
-Angola | Luanda
-Argentina | Buenos Aires
-Armenia | Yerevan
-Australia | Canberra
-Austria | Vienna
-Azerbaijan | Baku
-Bahamas | Nassau
-Bahrain | Manama
-Bangladesh | Dhaka
-Barbados | Bridgetown
-Belarus | Minsk
-Belgium | Brussels
-Belize | Belmopan
-Bhutan | Thimphu
-Bolivia | La Paz
-Bosnia and Herzegovina | Sarajevo
-Botswana | Gaborone
-Brazil | Brasilia
-Brunei | Bandar Seri Begawan
-Bulgaria | Sofia
-Burkina Faso | Ouagadougou
-Burundi | Bujumbura
-Cabo Verde | Praia
-Cambodia | Phnom Penh
-Cameroon | Yaounde
-Canada | Ottawa
-Central African Republic | Bangui
-Chile | Santiago
-China | Beijing
-Colombia | Bogota
-Comoros | Moroni
-Democratic Republic of the Congo | Kinshasa
-Republic of the Congo | Brazzaville
-Costa Rica | San Jose
-Croatia | Zagreb
-Cuba | Havana
-Cyprus | Nicosia
-Czech Republic | Prague
-Denmark | Copenhagen
-Dominica | Roseau
-Dominican Republic | Santo Domingo
-Ecuador | Quito
-Egypt | Cairo
-El Salvador | San Salvador
-Equatorial Guinea | Malabo
-Eritrea | Asmara
-Estonia | Tallinn
-Ethiopia | Addis Ababa
-Fiji | Suva
-Finland | Helsinki
-France | Paris
-Gabon | Libreville
-Gambia | Banjul
-Georgia | Tbilisi
-Germany | Berlin
-Ghana | Accra
-Greece | Athens
-Guatemala | Guatemala City
-Guinea | Conakry
-Guinea-Bissau | Bissau
-Guyana | Georgetown
-Honduras | Tegucigalpa
-Hungary | Budapest
-Iceland | Reykjavik
-India | New Delhi
-Indonesia | Jakarta
-Iran | Tehran
-Iraq | Baghdad
-Ireland | Dublin
-Israel | Jerusalem
-Italy | Rome
-Jamaica | Kingston
-Japan | Tokyo
-Jordan | Amman
-Kazakhstan | Astana
-Kenya | Nairobi
-Kiribati | South Tarawa
-Kosovo | Pristina
-Kuwait | Kuwait City
-Kyrgyzstan | Bishkek
-Laos | Vientiane
-Latvia | Riga
-Lebanon | Beirut
-Lesotho | Maseru
-Liberia | Monrovia
-Libya | Tripoli
-Liechtenstein | Vaduz
-Lithuania | Vilnius
-Luxembourg | Luxembourg
-Macedonia | Skopje
-Madagascar | Antananarivo
-Malawi | Lilongwe
-Malaysia | Kuala Lumpur
-Maldives | Male
-Mali | Bamako
-Malta | Valletta
-Marshall Islands | Majuro
-Mauritania | Nouakchott
-Mauritius | Port Louis
-Mexico | Mexico City
-Micronesia | Palikir
-Moldova | Chisinau
-Monaco | Monaco
-Mongolia | Ulaanbaatar
-Montenegro | Podgorica
-Morocco | Rabat
-Mozambique | Maputo
-Namibia | Windhoek
-Nauru | Yaren District
-Nepal | Kathmandu
-Netherlands | Amsterdam
-New Zealand | Wellington
-Nicaragua | Managua
-Niger | Niamey
-Nigeria | Abuja
-North Korea | Pyongyang
-Norway | Oslo
-Oman | Muscat
-Pakistan | Islamabad
-Palau | Ngerulmud
-Palestine | Ramallah
-Panama | Panama City
-Papua New Guinea | Port Moresby
-Paraguay | Asunción
-Peru | Lima
-Philippines | Manila
-Poland | Warsaw
-Portugal | Lisbon
-Qatar | Doha
-Romania | Bucharest
-Russia | Moscow
-Rwanda | Kigali
-Saint Kitts and Nevis | Basseterre
-Saint Lucia | Castries
-Saint Vincent and the Grenadines | Kingstown
-Samoa | Apia
-San Marino | San Marino
-Saudi Arabia | Riyadh
-Senegal | Dakar
-Serbia | Belgrade
-Seychelles | Victoria
-Sierra Leone | Freetown
-Singapore | Singapore
-Slovakia | Bratislava
-Slovenia | Ljubljana
-Solomon Islands | Honiara
-Somalia | Mogadishu
-South Africa | Pretoria
-South Korea | Seoul
-South Sudan | Juba
-Spain | Madrid
-Sudan | Khartoum
-Suriname | Paramaribo
-Swaziland | Mbabane
-Sweden | Stockholm
-Switzerland | Bern
-Syria | Damascus
-Taiwan | Taipei
-Tajikistan | Dushanbe
-Tanzania | Dodoma
-Thailand | Bangkok
-Togo | Lome
-Trinidad and Tobago | Port of Spain
-Tunisia | Tunis
-Turkey | Ankara
-Turkmenistan | Ashgabat
-Tuvalu | Funafuti
-Uganda | Kampala
-Ukraine | Kyiv
-United Arab Emirates | Abu Dhabi
-United Kingdom | London
-United States of America | Washington
-Uruguay | Montevideo
-Uzbekistan | Tashkent
-Vanuatu | Port Vila
-Venezuela | Caracas
-Vietnam | Hanoi
-Zambia | Lusaka
-Zimbabwe | Harare
+Afghanistan | Kabul | Asia
+Albania | Tirana | Europe
+Algeria | Algiers | Africa
+Andorra | Andorra la Vella | Europe
+Angola | Luanda | Africa
+Argentina | Buenos Aires | America
+Armenia | Yerevan | Europe
+Australia | Canberra | Oceania
+Austria | Vienna | Europe
+Azerbaijan | Baku | Europe
+Bahamas | Nassau | America
+Bahrain | Manama | Asia
+Bangladesh | Dhaka | Asia
+Barbados | Bridgetown | America
+Belarus | Minsk | Europe
+Belgium | Brussels | Europe
+Belize | Belmopan | America
+Bhutan | Thimphu | Asia
+Bolivia | La Paz | America
+Bosnia and Herzegovina | Sarajevo | Europe
+Botswana | Gaborone | Africa
+Brazil | Brasilia | America
+Brunei | Bandar Seri Begawan | Asia
+Bulgaria | Sofia | Europe
+Burkina Faso | Ouagadougou | Africa
+Burundi | Bujumbura | Africa
+Cabo Verde | Praia | Africa
+Cambodia | Phnom Penh | Asia
+Cameroon | Yaounde | Africa
+Canada | Ottawa | America
+Central African Republic | Bangui | Africa
+Chile | Santiago | America
+China | Beijing | Asia
+Colombia | Bogota | America
+Comoros | Moroni | Africa
+Democratic Republic of the Congo | Kinshasa | Africa
+Republic of the Congo | Brazzaville | Africa
+Costa Rica | San Jose | America
+Croatia | Zagreb | Europe
+Cuba | Havana | America
+Cyprus | Nicosia | Europe
+Czech Republic | Prague | Europe
+Denmark | Copenhagen | Europe
+Dominica | Roseau | America
+Dominican Republic | Santo Domingo | America
+Ecuador | Quito | America
+Egypt | Cairo | Africa
+El Salvador | San Salvador | America
+Equatorial Guinea | Malabo | Africa
+Eritrea | Asmara | Africa
+Estonia | Tallinn | Europe
+Ethiopia | Addis Ababa | Africa
+Fiji | Suva | Oceania
+Finland | Helsinki | Europe
+France | Paris | Europe
+Gabon | Libreville | Africa
+Gambia | Banjul | Africa
+Georgia | Tbilisi | Europe
+Germany | Berlin | Europe
+Ghana | Accra | Africa
+Greece | Athens | Europe
+Guatemala | Guatemala City | America
+Guinea | Conakry | Africa
+Guinea-Bissau | Bissau | Africa
+Guyana | Georgetown | America
+Honduras | Tegucigalpa | America
+Hungary | Budapest | Europe
+Iceland | Reykjavik | Europe
+India | New Delhi | Asia
+Indonesia | Jakarta | Asia
+Iran | Tehran | Asia
+Iraq | Baghdad | Asia
+Ireland | Dublin | Europe
+Israel | Jerusalem | Asia
+Italy | Rome | Europe
+Jamaica | Kingston | America
+Japan | Tokyo | Asia
+Jordan | Amman | Asia
+Kazakhstan | Astana | Asia
+Kenya | Nairobi | Africa
+Kiribati | South Tarawa | Oceania
+Kosovo | Pristina | Europe
+Kuwait | Kuwait City | Asia
+Kyrgyzstan | Bishkek | Asia
+Laos | Vientiane | Asia
+Latvia | Riga | Europe
+Lebanon | Beirut | Asia
+Lesotho | Maseru | Africa
+Liberia | Monrovia | Africa
+Libya | Tripoli | Africa
+Liechtenstein | Vaduz | Europe
+Lithuania | Vilnius | Europe
+Luxembourg | Luxembourg | Europe
+Macedonia | Skopje | Europe
+Madagascar | Antananarivo | Africa
+Malawi | Lilongwe | Africa
+Malaysia | Kuala Lumpur | Asia
+Maldives | Male | Asia
+Mali | Bamako | Africa
+Malta | Valletta | Europe
+Marshall Islands | Majuro | Oceania
+Mauritania | Nouakchott | Africa
+Mauritius | Port Louis | Africa
+Mexico | Mexico City | America
+Micronesia | Palikir | Oceania
+Moldova | Chisinau | Europe
+Monaco | Monaco | Europe
+Mongolia | Ulaanbaatar | Asia
+Montenegro | Podgorica | Europe
+Morocco | Rabat | Africa
+Mozambique | Maputo | Africa
+Namibia | Windhoek | Africa
+Nauru | Yaren District | Oceania
+Nepal | Kathmandu | Asia
+Netherlands | Amsterdam | Europe
+New Zealand | Wellington | Oceania
+Nicaragua | Managua | America
+Niger | Niamey | Africa
+Nigeria | Abuja | Africa
+North Korea | Pyongyang | Asia
+Norway | Oslo | Europe
+Oman | Muscat | Asia
+Pakistan | Islamabad | Asia
+Palau | Ngerulmud | Oceania
+Palestine | Ramallah | Asia
+Panama | Panama City | America
+Papua New Guinea | Port Moresby | Oceania
+Paraguay | Asunción | America
+Peru | Lima | America
+Philippines | Manila | Asia
+Poland | Warsaw | Europe
+Portugal | Lisbon | Europe
+Qatar | Doha | Asia
+Romania | Bucharest | Europe
+Russia | Moscow | Asia
+Rwanda | Kigali | Africa
+Saint Kitts and Nevis | Basseterre | America
+Saint Lucia | Castries | America
+Saint Vincent and the Grenadines | Kingstown | America
+Samoa | Apia | Oceania
+San Marino | San Marino | Europe
+Saudi Arabia | Riyadh | Asia
+Senegal | Dakar | Africa
+Serbia | Belgrade | Europe
+Seychelles | Victoria | Africa
+Sierra Leone | Freetown | Africa
+Singapore | Singapore | Asia
+Slovakia | Bratislava | Europe
+Slovenia | Ljubljana | Europe
+Solomon Islands | Honiara | Oceania
+Somalia | Mogadishu | Africa
+South Africa | Pretoria | Africa
+South Korea | Seoul | Asia
+South Sudan | Juba | Africa
+Spain | Madrid | Europe
+Sudan | Khartoum | Africa
+Suriname | Paramaribo | America
+Swaziland | Mbabane | Africa
+Sweden | Stockholm | Europe
+Switzerland | Bern | Europe
+Syria | Damascus | Asia
+Taiwan | Taipei | Asia
+Tajikistan | Dushanbe | Asia
+Tanzania | Dodoma | Africa
+Thailand | Bangkok | Asia
+Togo | Lome | Africa
+Trinidad and Tobago | Port of Spain | America
+Tunisia | Tunis | Africa
+Turkey | Ankara | Asia
+Turkmenistan | Ashgabat | Asia
+Tuvalu | Funafuti | Oceania
+Uganda | Kampala | Africa
+Ukraine | Kyiv | Europe
+United Arab Emirates | Abu Dhabi | Asia
+United Kingdom | London | Europe
+United States of America | Washington | America
+Uruguay | Montevideo | America
+Uzbekistan | Tashkent | Asia
+Vanuatu | Port Vila | Oceania
+Venezuela | Caracas | America
+Vietnam | Hanoi | Asia
+Zambia | Lusaka | Africa
+Zimbabwe | Harare | Africa
